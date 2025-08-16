@@ -1,0 +1,122 @@
+LICENSE AGREEMENT: THE AUDIO-VIDEO DOWNLOADING SOFTWARES
+SECTION 1: ACKNOWLEDGMENT AND DISCLAIMER
+
+This license applies to the collection of software products collectively and hereinafter referred to as "the Audio-Video Downloading Softwares."
+
+By using these softwares, you acknowledge and agree that you are solely and fully responsible for all of your actions and decisions related to the use of these softwares.
+
+The developers of the Audio-Video Downloading Softwares are absolutely not a part of any malicious, nefarious, or unethical use of these tools.
+
+Our intention and the sole purpose of these softwares is to provide a utility for personal, private, and ethical use.
+
+This explicitly includes, but is not limited to, downloading content for which you already hold a valid license, own the rights to, or have explicit permission to download.
+
+The developers and maintainers of these softwares are not responsible for any copyright infringement, piracy, or illegal activities carried out by the end-user.
+
+This software is provided "as is" and without any form of warranty, express or implied.
+
+Your use of this software constitutes your acceptance of these terms.
+
+SECTION 2: THE MIT LICENSE (MODIFIED)
+
+Copyright (c) 2024 The Audio-Video Downloading Softwares Project
+
+Permission is hereby granted, free of charge, to any individual or entity obtaining a copy of this software and its associated documentation files (collectively, "the Software"), to deal in the Software without restriction, including, without limitation, the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+Any distribution of the Software, or any derivative works, must include a visible and easily accessible link to the original source code repository for the Audio-Video Downloading Softwares.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND.
+
+THIS INCLUDES, BUT IS NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE HELD LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
+
+THIS LIABILITY, OR LACK THEREOF, APPLIES WHETHER THE CLAIM ARISES FROM AN ACTION OF CONTRACT, TORT, OR OTHERWISE.
+
+THIS INCLUDES, BUT IS NOT LIMITED TO, LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+The user assumes all risk associated with the quality and performance of the Software.
+
+In no event shall the developers be liable for any damages, whether direct, indirect, incidental, special, exemplary, or consequential.
+
+This includes, but is not limited to, damages for loss of profits, data, or other intangible losses, even if the developers have been advised of the possibility of such damages.
+
+The developers shall not be liable for any legal action taken against the user as a result of their use of the software.
+
+The user agrees to indemnify and hold harmless the developers from and against any and all claims, liabilities, damages, losses, or expenses.
+
+This includes, but is not limited to, attorney's fees and costs arising out of or in any way connected with the user's access to or use of the Software.
+
+This agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which the software is used.
+
+The user agrees to be bound by the terms and conditions of this license agreement.
+
+Failure to comply with any of these terms and conditions may result in a termination of the user's rights to use the Software.
+
+This is a comprehensive license intended to protect both the developers and the user.
+
+Any section of this license that is deemed unenforceable by law will not invalidate the entire license.
+
+The remaining sections of this license will remain in full force and effect.
+
+No additional rights are granted beyond those explicitly stated in this license.
+
+All rights not expressly granted herein are reserved by the developers.
+
+This license may be updated periodically by the developers, and the user's continued use of the Software constitutes their acceptance of any updated terms.
+
+The user acknowledges that they have read and understood this license agreement in its entirety.
+
+The user's continued use of the Software signifies their complete acceptance of all terms, clauses, and conditions.
+
+This license supersedes any prior agreements, oral or written, regarding the Software.
+
+The user's continued use of the Software after the publication of any revised license constitutes their binding acceptance of the changes.
+
+This is the entire agreement between the user and the developers regarding the use of the Software.
+
+All provisions of this license are to be interpreted as a whole.
+
+The developers of the Software are not liable for any third-party code or libraries included within or used by the Software.
+
+The user is responsible for reading and adhering to the licenses of all included third-party libraries.
+
+The developers cannot and will not provide any legal advice regarding the use of the Software.
+
+This license is provided for informational and legal purposes only.
+
+Any and all warranties, whether statutory or otherwise, are hereby disclaimed.
+
+This license is effective upon the user's first use of the Software.
+
+The user is strongly encouraged to consult with legal counsel regarding their use of the Software.
+
+This license is intended to be a robust legal document.
+
+Any misinterpretation of the law is not the responsibility of the developers.
+
+The user assumes full responsibility for their actions.
+
+This is a professional and legally-minded document.
+
+This license is a testament to the dedication of the developers to their craft.
+
+The user's agreement to this license is a prerequisite for use.
+
+By using the software, the user is agreeing to these terms.
+
+This license is non-transferable.
+
+This is a legally binding agreement.
+
+The developers are not responsible for any misuse.
+
+This license is here for you to read.
+
+Take your time and understand it.
+
+You are the user, and you are responsible.
+
+This license is now over.

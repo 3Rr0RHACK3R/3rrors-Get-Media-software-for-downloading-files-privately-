@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MediaGrabber Suite - Documentation</title>
+    <!-- Use a slick, modern font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Tailwind CSS via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-200">
+
+    <!-- Main Container -->
+    <div class="container mx-auto p-4 sm:p-8 md:p-12 lg:p-16">
+
+        <!-- Header Section -->
+        <header class="text-center mb-12">
+            <h1 class="text-4xl sm:text-5xl md:text-6xl font-extrabold text-blue-400 drop-shadow-lg">
+                <span class="bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
+                    MediaGrabber Suite
+                </span>
+            </h1>
+            <p class="mt-4 text-lg sm:text-xl font-medium text-gray-400">
+                Your professional, next-generation solution for media acquisition.
+            </p>
+            <p class="mt-2 text-sm text-gray-500 italic">
+                Developed by a certified GOAT. 🐐
+            </p>
+        </header>
+
+        <!-- Get-audio Section -->
+        <section class="bg-gray-800 rounded-2xl p-6 sm:p-8 lg:p-10 mb-12 shadow-2xl border-2 border-gray-700">
+            <h2 class="text-3xl sm:text-4xl font-bold text-gray-100 mb-4 flex items-center">
+                Get-audio
+                <span class="ml-4 text-2xl">🎧</span>
+            </h2>
+            <p class="text-gray-300 leading-relaxed mb-6">
+                This powerful command-line software is designed to effortlessly extract high-quality audio from online sources. It's built with a focus on simplicity and efficiency, ensuring you get the perfect soundtrack with just a few keystrokes.
+            </p>
+
+            <div class="mb-8">
+                <h3 class="text-xl sm:text-2xl font-semibold text-blue-300 mb-4">Features</h3>
+                <ul class="list-disc list-inside space-y-2 text-gray-300 ml-4">
+                    <li><strong class="text-blue-200">YouTube Audio Extraction:</strong> Automatically finds and downloads the highest quality audio stream from any YouTube video.</li>
+                    <li><strong class="text-blue-200">Web Scraping:</strong> Aggressively crawls webpages to find and download direct links to audio files (`.mp3`, `.wav`, `.flac`, etc.).</li>
+                    <li><strong class="text-blue-200">Automatic Conversion:</strong> Seamlessly converts downloaded streams into universal MP3 format using FFmpeg.</li>
+                    <li><strong class="text-blue-200">User-Friendly CLI:</strong> A clean, menu-driven interface with a detailed "help" section.</li>
+                    <li><strong class="text-blue-200">Platform Agnostic:</strong> Works perfectly on Windows.</li>
+                </ul>
+            </div>
+
+            <div class="mb-8">
+                <h3 class="text-xl sm:text-2xl font-semibold text-blue-300 mb-4">How to Use</h3>
+                <ol class="list-decimal list-inside space-y-4 text-gray-300 ml-4">
+                    <li>
+                        <strong class="text-blue-200">Prepare Your Environment:</strong> Ensure you have Python installed and run the included `Setup-first.exe` to install FFmpeg. This is crucial!
+                    </li>
+                    <li>
+                        <strong class="text-blue-200">Run the Executable:</strong> Double-click the `Get-audio.exe` file. The command-line interface will appear.
+                    </li>
+                    <li>
+                        <strong class="text-blue-200">Choose an Option:</strong> From the main menu, select `1` to download from YouTube or `2` to scrape a URL.
+                    </li>
+                    <li>
+                        <strong class="text-blue-200">Follow the Prompts:</strong> Enter the URL you wish to process and watch the magic happen.
+                    </li>
+                </ol>
+            </div>
+        </section>
+
+        <!-- Get-Video Section -->
+        <section class="bg-gray-800 rounded-2xl p-6 sm:p-8 lg:p-10 shadow-2xl border-2 border-gray-700">
+            <h2 class="text-3xl sm:text-4xl font-bold text-gray-100 mb-4 flex items-center">
+                Get-Video
+                <span class="ml-4 text-2xl">🎬</span>
+            </h2>
+            <p class="text-gray-300 leading-relaxed mb-6">
+                This command-line application is a dedicated solution for downloading high-quality video and audio content from YouTube. It efficiently retrieves and merges both streams to provide users with a complete video file for offline access.
+            </p>
+
+            <div class="mb-8">
+                <h3 class="text-xl sm:text-2xl font-semibold text-blue-300 mb-4">Features</h3>
+                <ul class="list-disc list-inside space-y-2 text-gray-300 ml-4">
+                    <li><strong class="text-blue-200">YouTube Video Download:</strong> Securely downloads full video and audio files from any valid YouTube URL.</li>
+                    <li><strong class="text-blue-200">High-Quality Output:</strong> Retrieves the best available video and audio quality, up to 1080p, and merges them into a single file.</li>
+                    <li><strong class="text-blue-200">Flexible Format Output:</strong> Downloads videos in standard `.mp4` format for wide compatibility.</li>
+                    <li><strong class="text-blue-200">Command-Line Interface:</strong> A straightforward and logical interface for easy operation.</li>
+                    <li><strong class="text-blue-200">Windows Compatibility:</strong> Optimized to run as a standalone executable on Windows operating systems.</li>
+                </ul>
+            </div>
+
+            <div class="mb-8">
+                <h3 class="text-xl sm:text-2xl font-semibold text-blue-300 mb-4">How to Use</h3>
+                <ol class="list-decimal list-inside space-y-4 text-gray-300 ml-4">
+                    <li>
+                        <strong class="text-blue-200">Initial Setup:</strong> Ensure Python is installed and run the provided `Setup-first.exe` to install necessary dependencies.
+                    </li>
+                    <li>
+                        <strong class="text-blue-200">Execute the Program:</strong> Run the `Get-video.exe` executable file.
+                    </li>
+                    <li>
+                        <strong class="text-blue-200">Enter URL:</strong> When prompted, provide the YouTube video URL you wish to download.
+                    </li>
+                    <li>
+                        <strong class="text-blue-200">Download:</strong> The video will be saved to your specified download location.
+                    </li>
+                </ol>
+            </div>
+        </section>
+        
+        <!-- Footer -->
+        <footer class="mt-12 text-center text-gray-500 text-sm">
+            <p>&copy; 2024 MediaGrabber Suite. All rights reserved.</p>
+            <p class="mt-1">Built with passion by a legendary nerd! ✨</p>
+        </footer>
+
+    </div>
+
+</body>
+</html>
